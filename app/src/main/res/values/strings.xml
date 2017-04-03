@@ -1,0 +1,81 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Dhaka Tour Guide</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_sightseeing">Sightseeing</string>
+
+    <!-- Category name for the vocabulary locations for colors [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <!-- Category name for the vocabulary locations for numbers [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary locations for family members [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Hotel Details-->
+    <string name="hotel_comfort_inn">Comfort Inn</string>
+    <string name="comfort_inn_details">A restaurant, an outdoor pool, and a 24-hour health club are available at this hotel. Free buffet breakfast is provided, as well as free WiFi in public areas.</string>
+
+    <string name="hotel_la_meridian">La Meridian</string>
+    <string name="la_meridian_details">Along with 7 restaurants, this resort has an outdoor pool and 3 bars/lounges. WiFi in public areas is free. Additionally, a fitness center, a poolside bar.</string>
+
+    <string name="hotel_long_beach">Long Beach</string>
+    <string name="long_beach_details">Along with a full-service spa, this hotel has a restaurant and an outdoor pool. Free breakfast is provided, as well as free WiFi in public areas, free self parking.</string>
+
+    <string name="hotel_sonargaon">Panpacific Sonargaon</string>
+    <string name="sonargaon_details">2 restaurants, a full-service spa, and an outdoor pool are available at this hotel. Free WiFi in public areas and free valet parking are also provided.</string>
+
+    <string name="hotel_radison_blu">Radison Blu</string>
+    <string name="radison_blu_details">Offering an outdoor pool and a spa and wellness centre, Radisson Blu Water Garden Hotel Dhaka offers free Wi-Fi access throughout the property.</string>
+
+    <string name="hotel_serina">Serina</string>
+    <string name="serina_details">5 restaurants, an outdoor pool, and a nightclub are available at this smoke-free hotel. Free buffet breakfast is provided, as well as free airport shuttle.</string>
+
+    <string name="hotel_westin">Westin Dhaka</string>
+    <string name="westin_details">Along with 5 restaurants, this hotel has a full-service spa and an outdoor pool. Self parking is free. Other amenities include 3 bars/lounges, fitness center.</string>
+
+    <!--Restaurant-->
+    <string name="res_xinxian">Xinxian Restaurant</string>
+    <string name="xinxian_details">We offer lavishly decorated dish with multi cuisine menus, especially Thai, Chinese and Cultural cuisine. We also serve Bangla foods.</string>
+
+    <string name="res_bayleaf">Bay Leaf</string>
+    <string name="bayleaf_details">It can be traditional Indian, Thai, Chinese, or may be Bangladeshi cuisines. What ever you want you can have it at bayleaf restaurant</string>
+
+    <string name="res_yantai">Yantai Restaurant</string>
+    <string name="yantai_details">Best restaurant in Mirpur location, You can have Thi, Chinees and cultural program also booking is going on</string>
+
+    <string name="res_fakruddin">Fakruddin</string>
+    <string name="fakruddin_details">Biriyani, Polau best place in Dhaka to have Lunch with special Biriyani</string>
+
+    <string name="res_kfc">KFC Mirpur</string>
+    <string name="kfc_details">KFC Restaurant in Mirpur location. Provides Home Delivery.</string>
+
+    <string name="res_banolota">Banolota Restaurant</string>
+    <string name="banolota_details">We provide party booking. Our hospitality will make you happy with our food and taste</string>
+
+
+    <!--Shopping-->
+    <string name="sho_jamuna">Jamuna Future Park</string>
+    <string name="jamuna_details">The largest Shopping Mall in South Asia</string>
+
+    <string name="sho_bashundhara">Bashundhara Shopping Complex</string>
+    <string name="bashundhara_details">well environment shopping experience</string>
+
+    <string name="sho_arong">Arong</string>
+    <string name="arong_details">Aarong – Bengali for ‘village fair’ – is Bangladesh’s most popular lifestyle retail chain. This ethical brand began in 1978.</string>
+
+    <string name="sho_ecstasy">Ecstasy</string>
+    <string name="ecstasy_details">From its humble beginnings as a sigle store chain in 1997, Ecstasy has quickly become one of the nations largest fasion retailers.</string>
+
+    <!--Sight Seeing-->
+    <string name="sight_zoo">Bangladesh National Zoo</string>
+    <string name="zoo_details">Bangladesh National Zoo situated in Mirpur.</string>
+    
+    <string name="sight_herbarium">Bangladesh National Herbarium</string>
+    <string name="herbarium_details">Bangladesh National Herbarium situated in Mirpur which is most beautiful place in Dhaka city</string>
+</resources>

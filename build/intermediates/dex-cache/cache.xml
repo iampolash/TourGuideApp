@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\sksho\Desktop\AndroidStudioProjects\TourGuideApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\sksho\Desktop\AndroidStudioProjects\TourGuideApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0c92317e196092044f258fef3240a461dad752b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sksho\Desktop\AndroidStudioProjects\TourGuideApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba8a8f68e6e27a3ff91619301729d5da2231afc9">
+        <dex dex="C:\Users\sksho\Desktop\AndroidStudioProjects\TourGuideApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_aeec4b6ab13ff31a2d85201bc9ae4ff02c136dc9\classes.dex" />
+    </item>
+
+</items>
